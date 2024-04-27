@@ -45,4 +45,5 @@ This project was done as part of an interview process.
 - [ ] Add unit tests to ensure code reliability.
 - [ ] Optimize performance by parallelizing HTTP requests.
 - [ ] Enhance user interface for better readability.
+- [ ] Fix Metrics/BlockLength: Block has too many lines Rubocop Errors
 
